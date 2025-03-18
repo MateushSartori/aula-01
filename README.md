@@ -4,8 +4,8 @@ Olá, mundo! 👋
  
 Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
 
-# 🚀 Meu Repositório
+## 📚 O que você encontrará aqui?
  
-Olá, mundo! 👋
- 
-Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
+- 📝 Projetos simples e tutoriais
+- 💡 Anotações e dicas
+- 🛠️ Experimentos com código
